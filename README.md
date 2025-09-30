@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm **n0upi** (noupiiii)
 
-<!--
-**noupiiii/noupiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/noupiiii?style=for-the-badge)](https://github.com/noupiiii)  
+[![GitHub stars](https://img.shields.io/github/stars/noupiiii?style=for-the-badge)](https://github.com/noupiiii?tab=stars)  
+[![GitHub repos](https://img.shields.io/github/repos/noupiiii?style=for-the-badge)](https://github.com/noupiiii?tab=repositories)  
+[![Top Langs](https://img.shields.io/github/languages/top/noupiiii?style=for-the-badge)](https://github.com/noupiiii)  
 
-Here are some ideas to get you started:
+🔍 Passionate about puzzles, cryptography & collaborative coding  
+🌱 Currently exploring new ideas in web dev, security & problem solving  
+📂 Contributor to **CryptoSquare** — a cryptography puzzle web app built with Vue.js  
+⚡ Always up for side projects, challenges, and learning something new  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Interests  
+- JavaScript / Vue.js  
+- Cryptography & puzzles  
+- Web development & full-stack thinking  
+- Open source & collaboration  
+- Continuous learning & experimentation  
+
+### Let’s Connect  
+💬 Feel free to open an issue or reach out — I love teaming up and exchanging ideas  
