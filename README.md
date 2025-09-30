@@ -6,8 +6,8 @@
 [![Top Langs](https://img.shields.io/github/languages/top/noupiiii?style=for-the-badge)](https://github.com/noupiiii)  
 
 ### My favorite stack
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white")
+![Next JS](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MinIo](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white")
 
 
 ### Skills & Interests  
