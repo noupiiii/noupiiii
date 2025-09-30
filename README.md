@@ -5,10 +5,10 @@
 [![GitHub repos](https://img.shields.io/github/repos/noupiiii?style=for-the-badge)](https://github.com/noupiiii?tab=repositories)  
 [![Top Langs](https://img.shields.io/github/languages/top/noupiiii?style=for-the-badge)](https://github.com/noupiiii)  
 
-🔍 Passionate about puzzles, cryptography & collaborative coding  
-🌱 Currently exploring new ideas in web dev, security & problem solving  
-📂 Contributor to **CryptoSquare** — a cryptography puzzle web app built with Vue.js  
-⚡ Always up for side projects, challenges, and learning something new  
+### My favorite stack
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/-MinIO-C72E49?style=flat&logo=minio&logoColor=white")
+
 
 ### Skills & Interests  
 - JavaScript / Vue.js  
